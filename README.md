@@ -3,10 +3,10 @@
 I write some codes and learn something 🥃
 
 
-💻 Developer at [JJ Jobs](https://jjjobs.com.br)
-📚 Telecommunications Engineer
-💼 [Linkedin](https://www.linkedin.com/in/jonatan-davi-almeida/)
-👊 [Twitter](https://twitter.com/jonatandavi5)
+💻 Developer at [JJ Jobs](https://jjjobs.com.br)<br>
+📚 Telecommunications Engineer<br>
+💼 [Linkedin](https://www.linkedin.com/in/jonatan-davi-almeida/)<br>
+👊 [Twitter](https://twitter.com/jonatandavi5)<br>
 
 <!--
 **jonatandavi/jonatandavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/-Jonatan%20Almeida-%230e76a8?url=https://www.linkedin.com/in/jonatan-davi-almeida/
+
+https://img.shields.io/mastodon/follow/uyt?domain=yuyt&style=social
+
 <!--
 **jonatandavi/jonatandavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

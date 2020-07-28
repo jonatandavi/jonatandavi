@@ -8,7 +8,7 @@ I write some codes and learn something 🥃
 
 💻 Developer at [JJ Jobs](https://jjjobs.com.br)<br>
 📚 Telecommunications Engineer<br>
-📟 [Website](jonatandavi.tk)
+📟 [Website](http://jonatandavi.tk)
 <!--
 **jonatandavi/jonatandavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

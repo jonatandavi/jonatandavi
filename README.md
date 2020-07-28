@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonatan Davi 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatan-davi-almeida/)](https://www.linkedin.com/in/jonatan-davi-almeida/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatan-davi-almeida/)](https://www.linkedin.com/in/jonatan-davi-almeida/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jonatandavi5)](https://twitter.com/jonatandavi5) 
 
 I write some codes and learn something 🥃

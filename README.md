@@ -1,7 +1,7 @@
 ### Hi there, I'm Jonatan Davi 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatan-davi-almeida/)](https://www.linkedin.com/in/frank-laercio/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.instagram.com/jonatandavi5)](https://www.instagram.com/franklaercio) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatan-davi-almeida/)](https://www.linkedin.com/in/jonatan-davi-almeida/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jonatandavi5)](https://twitter.com/jonatandavi5) 
 
 I write some codes and learn something 🥃
 

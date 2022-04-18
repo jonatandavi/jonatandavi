@@ -5,8 +5,6 @@
 
 I write some codes and learn something! 🥃
 
-
-💻 Developer at [JJ Jobs](https://jjjobs.com.br)<br>
 📚 Telecommunications Engineer<br>
 📟 [Website](https://jonatan-website-2009.herokuapp.com)
 <!--
